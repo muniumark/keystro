@@ -1,4 +1,4 @@
-# Hi:wave:, I am Peter Mark
+# Hi:wave:, I am Peter Mark Muniu:computer:
 
 ![alt text](https://github.com/keystro/keystro/blob/main/github%20cover.png?raw=true)
 
