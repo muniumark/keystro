@@ -1,3 +1,3 @@
 # Hi, I am Peter Mark
 
-<img src="https://drive.google.com/file/d/1JeRzpAWggegnfh6TELGsWx6Crf04G2eV/view?usp=sharing" align="center" />
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
