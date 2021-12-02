@@ -1,3 +1,3 @@
 # Hi, I am Peter Mark
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/keystro/keystro/blob/main/github%20cover.png?raw=true)
